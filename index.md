@@ -1,5 +1,5 @@
 # *Custom image host tier list*
-[Bios](bios.md) [FAQ](faq.md)
+[Bios](bios.md) | [FAQ](faq.md)
 
 ## [EZ host](https://e-z.host) - A tier | 22/30
 
@@ -50,7 +50,7 @@ Support - ???
 
 
 
-Contact - K4TBO1#8106 | k4tbo1@hrzn.email
+Contact - | K4TBO1#8106 | k4tbo1@hrzn.email |
 
 
 
