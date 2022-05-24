@@ -23,7 +23,6 @@ Support - ???
 - Never had any issues with them, although asking the members of the discord server for support will cause severe brain damage
 <br>
 <br>
-<br>
 ## [Horizon](https://horizon.pics) - A tier | 23/30
 
 - A privacy respecting image host, with really good functionality.
