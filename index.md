@@ -1,4 +1,5 @@
 # *Custom image host tier list*
+[Bios](bios.md)
 
 ~~~
 Questions that might get asked-
