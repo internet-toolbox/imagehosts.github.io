@@ -23,10 +23,6 @@ Extra tools - 9/10
 - Email service
   
 
-Support - ???
-
-- Never had any problems with them, however the members seem very friendly and you can *probably* rely on the community for support.
-
 ---
 
 ## [Hyper](https://hyper.pics) - B tier
@@ -43,10 +39,6 @@ UI - 8/10
 Extra tools - 5/10
 
 - Pastebin ( [Reference](https://hyper.pics/p/kCyvcqtGVFQA) )
-
-Support - ???
-
-- Never had any issues with them, the server members seem to be moderately toxic, though the devs are actually pretty nice.
 
 ---
 
@@ -81,10 +73,6 @@ Extra tools - 7/10
 - File uploader [25mb for normal users, 75mb for premium users]
 - URL shortner
 - Pastebin ( [Reference](https://sussy.amongware.net/p/download/2da976b894) )
-
-Support - ???
-
-- Never had any issues with them, although asking the members of the discord server for support will cause severe brain damage.
 
 ---
 
