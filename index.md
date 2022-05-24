@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## [EZ host](https://e-z.host) - A tier | 22/30
+## [EZ host](https://e-z.host) - A tier | 14/20
 
 - EZ host is a popular image host in the image hosting community.
 
@@ -12,7 +12,7 @@ UI - 7/10
 
 - nothing special about the ui, works as intented and doesn't burn your eyes
 
-Extra tools - 6/10
+Extra tools - 7/10
 
 - File uploader [25mb]
 - URL shortner
@@ -24,11 +24,11 @@ Support - ???
 <br>
 <br>
 
-## [Horizon](https://horizon.pics) - A tier | 22/30
+## [Horizon](https://horizon.pics) - A tier | 15/20
 
 - A privacy respecting image host, with really good functionality.
 
-UI - 7/10
+UI - 6/10
 
 - Looks pretty nice at first glance, but gets repetitive after some time, especially because of the color scheme
 
