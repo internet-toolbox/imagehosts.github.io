@@ -1,7 +1,9 @@
 # **Custom image host tier list**
 
 [Bios](bios.md) | [FAQ](faq.md) | [Other info](other_things.md)
-
+<br>
+<br>
+<br>
 ## [EZ host](https://e-z.host) - A tier | 22/30
 
 - EZ host is a popular image host in the image hosting community.
