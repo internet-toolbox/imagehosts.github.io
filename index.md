@@ -1,6 +1,6 @@
 # **Custom image host tier list**
 
-[Bios](bios.md) | [Filehosts](filehosts.md) | [FAQ](faq.md) | [Other info](other_things.md)
+[Bios](bios.md) | [Filehosts](filehosts.md) | [FAQ](faq.md) | [Other info](other_things.md) | [Changelog](changelog.md)
 
 ---
 
