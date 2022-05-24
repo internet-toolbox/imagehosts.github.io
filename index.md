@@ -25,6 +25,7 @@ Extra tools - 9/10
 Support - ???
 
 - Never had any problems with them, however the members seem very friendly and you can *probably* rely on the community for support.
+
 ---
 
 ## [EZ host](https://e-z.host) - A tier | 13/20
@@ -44,5 +45,7 @@ Extra tools - 6/10
 Support - ???
 
 - Never had any issues with them, although asking the members of the discord server for support will cause severe brain damage
+
 ---
+
 **This site is still a work in progress and the layout and domain might change**
