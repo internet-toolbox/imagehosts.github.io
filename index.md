@@ -1,8 +1,8 @@
 # **Custom image host tier list**
 
-[Bios](bios.md) | [FAQ](faq.md) | [Other info](other_things.md) | [Filehosts](filehosts.md)
-<br>
-<br>
+[Bios](bios.md) | [Filehosts](filehosts.md) | [FAQ](faq.md) | [Other info](other_things.md)
+
+---
 
 ## [EZ host](https://e-z.host) - A tier | 14/20
 
@@ -21,9 +21,7 @@ Extra tools - 7/10
 Support - ???
 
 - Never had any issues with them, although asking the members of the discord server for support will cause severe brain damage
-<br>
-<br>
-
+---
 ## [Horizon](https://horizon.pics) - A tier | 15/20
 
 - A privacy respecting image host, with really good functionality.
@@ -46,7 +44,6 @@ Support - ???
 
 - Never had any problems with them, however the members seem very friendly and you can *probably* rely on the community for support.
 <br>
-<br>
-<br>
+---
 <br>
 **This site is still a work in progress and the layout and domain might change**
