@@ -42,9 +42,8 @@ Extra tools - 9/10
 Support - ???
 
 - Never had any problems with them, however the members seem very friendly and you can *probably* rely on the community for support.
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 **This site is still a work in progress and the layout and domain might change**
