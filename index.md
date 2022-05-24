@@ -1,4 +1,4 @@
-# *Custom image host tier list*
+# **Custom image host tier list**
 
 [Bios](bios.md) | [FAQ](faq.md) | [Other info](other_things.md)
 
