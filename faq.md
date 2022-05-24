@@ -15,3 +15,6 @@ A : Because I don't want to buy a custom domain and vps just so I can host a mar
 
 Q : Inspiration?<br>
 A : Wouldn't call [this](https://bin.fbi.pics/list/ehQPt) inspiration for starting the project, but I did take inspiration for the ranking system etc. 
+
+Q : How are extra tools ranked? Some services have more extra tools but a lower score compared to ones with less extra tools <br>
+A : It's ranked by how well each of the tools perform, for example, if a service has a pastebin and and an uploader with really low upload limit, it's ranked lower           because of that. the ranking system is imperfect as of now and will be moved to a different page, or be integrated with the bios page and renamed to extra tools
