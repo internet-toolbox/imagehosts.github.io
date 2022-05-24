@@ -76,4 +76,4 @@ Extra tools - 7/10
 
 ---
 
-## **[WIP]**
+## **Still a work in progress, please contact me [here](other_things.md) for any issues or complaints**
