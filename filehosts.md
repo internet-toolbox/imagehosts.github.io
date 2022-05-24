@@ -1,3 +1,3 @@
 # Not so known file hosts for temporary/permanent file storage
 
-![No](shut.png)
+![No](shut.PNG)
