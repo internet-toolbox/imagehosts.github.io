@@ -8,6 +8,7 @@ Contact - | K4TBO1#8106 | k4tbo1@hrzn.email |
 <br>
 
 Thanks to - <br>
-synth#0420/synth#8532 [For giving me info and some inspiration for the project] <br>
-NahSahh#6249 [For giving me access to kythi.pics when it was in beta] <br>
+synth#0420/synth#8532 [For giving me "Inspiration"] <br>
+[comment]: <> (Synth is also kinda gay ngl)
+NahSahh#6249 [For giving me access to kythi.pics, helping me with the project, reviewing gamings.host and being a very cool dude] <br>
 And everyone else who gave me an invite for any host in this list :)
