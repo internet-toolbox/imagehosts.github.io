@@ -2,6 +2,7 @@
 ## This is worse than my list
 ### synth is a femboy btw
 #### this is completely unedited
+##### original list - https://bin.fbi.pics/list/ehQPt
 
 ```
 made by synth#8532
