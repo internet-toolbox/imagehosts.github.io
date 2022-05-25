@@ -1,5 +1,11 @@
 ## Changelog
 
+### V 0.4
+
+```
++ Added more image hosts
+```
+
 ### V 0.3.1
 
 ```
