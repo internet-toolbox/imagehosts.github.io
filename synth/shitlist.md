@@ -1,7 +1,7 @@
 # The old list, which was kind of an inspiration for this. 
-## This is better shut
+## This is worse than my list
 ### synth is a femboy btw
-#### this is completely unedited as well
+#### this is completely unedited
 
 ```
 made by synth#8532
