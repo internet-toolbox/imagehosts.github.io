@@ -25,3 +25,16 @@
 10. [Moepantsu](https://moepantsu.com) [128MB file size limit]
   
 11. [ZZ](https://zz.ht) [1GB file size limit]
+
+---
+<br>
+[to be added]
+<br>
+https://up.antopie.org <br>
+https://yunohost.viviers-fibre.net/jirafeau/ <br>
+https://jirafeau.devol.it <br>
+https://share.parley.be <br>
+https://copia.nohost.me/jirafeau/ <br>
+https://share.southbox.de <br>
+https://dropbox.saritasa.com <br>
+https://download.monin.net <br>
