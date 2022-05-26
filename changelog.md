@@ -1,5 +1,12 @@
 ## Changelog
 
+### V 0.5
+
+```
++ Added the best looking 404 page known to mankind
++ Changed the layout of the website to make it easier to navigate
+```
+
 ### V 0.4
 
 ```
