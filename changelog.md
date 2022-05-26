@@ -1,5 +1,12 @@
 ## Changelog
 
+### V 0.5.1
+
+```
++ Added kraken.pics
++ Changed the layout of the image host page
+```
+
 ### V 0.5
 
 ```
