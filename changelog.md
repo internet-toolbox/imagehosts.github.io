@@ -4,7 +4,7 @@
 
 ```
 + Completely rewrote the image host page
-- moved the old image host list to remnants 
+- Moved the old image host list to remnants 
 ```
 
 ### V 0.5.1
